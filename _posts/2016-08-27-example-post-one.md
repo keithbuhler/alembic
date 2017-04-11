@@ -1,6 +1,6 @@
 ---
 title: Description of an Alembic
-category: General
+category: Workflow
 feature_image: "https://unsplash.it/1200/400?image=200"
 ---
 
