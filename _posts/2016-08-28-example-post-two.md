@@ -1,6 +1,6 @@
 ---
 title: History of the Alembic
-category: History
+category: Workflow
 feature_text: |
   The History of the Alembic tool
 ---

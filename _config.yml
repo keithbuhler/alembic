@@ -30,20 +30,20 @@ gems:
 - jemoji
 
 # 3. Gem settings
-paginate: 2 # jekyll-paginate > items per page
+paginate: 3 # jekyll-paginate > items per page
 paginate_path: blog/page:num # jekyll-paginate > blog page
 jekyll-mentions: https://twitter.com # jekyll-mentions > service used when @replying
 twitter:
-  username: DavidDarnes # jekyll-seo-tag > Owners twitter username
-author: DavidDarnes # jekyll-seo-tag > default author
+  username: Keith_Buhler # jekyll-seo-tag > Owners twitter username
+author: KeithBuhler # jekyll-seo-tag > default author
 social: # jekyll-seo-tag > social overrides
-  name: David Darnes # jekyll-seo-tag > real name
+  name: Keith Buhler # jekyll-seo-tag > real name
   links:  # jekyll-seo-tag > social aliases (sameAs)
-    - https://twitter.com/DavidDarnes
-    - https://www.facebook.com/daviddarnes
-    - https://www.linkedin.com/in/daviddarnes
-    - https://plus.google.com/+DavidDarnes
-    - https://github.com/daviddarnes
+    - https://twitter.com/Keith_Buhler
+    - https://www.facebook.com/circularreason
+    - https://www.linkedin.com/in/keithbuhler
+    - https://plus.google.com/+KeithBuhler
+    - https://github.com/keithbuhler
 
 # 4. Jekyll settings
 sass:
@@ -81,34 +81,33 @@ defaults:
 
 # 7. Site settings
 encoding: utf-8 # Make sure the encoding is right
-title: "Alembic" # Site name or title, also used in jekyll-seo-tag
+title: "Keith Buhler" # Site name or title, also used in jekyll-seo-tag
 logo: "/assets/placeholder-logo.svg" # Site logo, also used in jekyll-seo-tag
-description: "Alembic is a starting point for Jekyll projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately" # Site description and default description, also used in jekyll-seo-tag
+description: "The Buhler Report is a blog about philosophy, classical education, and politics." # Site description and default description, also used in jekyll-seo-tag
 url: "http://www.keithbuhler.com" # Site url, also used in jekyll-seo-tag
 baseurl: "/blog4"
 repo: "https://github.com/keithbuhler/blog4"
-email: "me@daviddarnes.com"
-disqus: "alembic-1"
-avatarurl: "https://www.gravatar.com/avatar/6c0377abcf4da91cdd35dea4554b2a4c" # Uses avatars for favicons to get multple sites, eg Gravatar, Twitter, GitHub
+email: ""
+disqus: "buhlerreport"
+avatarurl: "" # Uses avatars for favicons to get multple sites, eg Gravatar, Twitter, GitHub
 
 # 8. Site navigation
 navigation_header:
   Home: /
-  Elements: /elements/
-  Blog: /blog/
+  About: /about/
   Categories: /categories/
+  Blog: /blog/
   Search: /search/
-  Fork Alembic: https://github.com/daviddarnes/alembic
 
 navigation_footer:
-  Created by David Darnes: https://darn.es
+  Theme by Darnes: https://darn.es
 
 social_links:
-  Twitter: https://twitter.com/DavidDarnes
-  LinkedIn: https://www.linkedin.com/in/daviddarnes
-  Google+: https://plus.google.com/+DavidDarnes
-  GitHub: https://github.com/daviddarnes
-  link: https://darn.es
+  Twitter: https://twitter.com/keith_buhler
+  LinkedIn: https://www.linkedin.com/in/keithedbuhler
+  Google+: https://plus.google.com/+KeithBuhler
+  GitHub: https://github.com/keithbuhler
+  link: http://keithbuhler.com
 
 sharing_links:
   Twitter: "#1DA1F2"
