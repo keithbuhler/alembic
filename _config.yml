@@ -82,10 +82,9 @@ defaults:
 # 7. Site settings
 encoding: utf-8 # Make sure the encoding is right
 title: "Keith Buhler" # Site name or title, also used in jekyll-seo-tag
-logo: "/assets/placeholder-logo.svg" # Site logo, also used in jekyll-seo-tag
+logo: "/assets/placeholder-logo.png" # Site logo, also used in jekyll-seo-tag
 description: "The Buhler Report is a blog about philosophy, classical education, and politics." # Site description and default description, also used in jekyll-seo-tag
-url: "http://www.keithbuhler.com" # Site url, also used in jekyll-seo-tag
-baseurl: "/blog4"
+url: "http://www.keithbuhler.com/blog4" # Site url, also used in jekyll-seo-tag
 repo: "https://github.com/keithbuhler/blog4"
 email: ""
 disqus: "buhlerreport"
