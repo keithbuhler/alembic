@@ -92,11 +92,11 @@ avatarurl: "" # Uses avatars for favicons to get multple sites, eg Gravatar, Twi
 
 # 8. Site navigation
 navigation_header:
-  Home: /
-  About: /about/
-  Categories: /categories/
-  Blog: /blog/
-  Search: /search/
+  Home: /blog4/
+  About: /blog4/about/
+  Categories: /blog4/categories/
+  Blog: /blog4/blog/
+  Search: /blog4/search/
 
 navigation_footer:
   Theme by Darnes: https://darn.es
